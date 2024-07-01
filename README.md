@@ -7,7 +7,8 @@ https://faucet.0g.ai/
 
 # 3、获取MetaMask钱包私钥，并提供至节点安装方
     点击钱包账户详情
-![img_1.png](img_1.png)
+![2](https://github.com/nieyu-ny/0g_wallet_md/assets/12746797/e79dfb38-313e-4f89-88cb-d077835560c3)
+
 
     点击显示私钥
 
