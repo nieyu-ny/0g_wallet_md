@@ -17,4 +17,5 @@ https://faucet.0g.ai/
 
     复制私钥，提供至0g节点安装方
 
-![img_3.png](img_3.png)
+![1719828608660](https://github.com/nieyu-ny/0g_wallet_md/assets/12746797/82c1031b-08ae-4db3-a39b-6ad7f3fa260b)
+
